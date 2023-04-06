@@ -9,8 +9,8 @@ To run the program, you need to have Python 3 installed on your computer. You ca
 ### Usage
 To use the program, open a terminal or command prompt and navigate to the directory where the program is located. Then, run the following command:
 
-#### Copy code
-python coin_flip.py
+#### Copy code <br/>
+python coin_flip.py <br/>
 The program will ask you to enter the number of times you want to flip the coin. Enter a positive integer and press Enter. The program will then simulate the coin flips and display the results.
 
 ## Dodging the Blocks
@@ -19,15 +19,15 @@ This is a simple Pygame game that challenges the player to avoid obstacles and c
 ### Getting Started
 To run the game, you need to have Python 3 and Pygame installed on your computer. You can download Python from the official website and install Pygame by running the following command in your terminal or command prompt:
 
-### Copy code
-pip install pygame
+### Copy code <br/>
+pip install pygame <br/>
 Once you have Python and Pygame installed, you can download or clone this repository to your local machine.
 
 ### Usage
 To use the game, open a terminal or command prompt and navigate to the directory where the game is located. Then, run the following command:
 
 ### Copy code
-python dodging_the_blocks.py
+python dodging_the_blocks.py <br/>
 The game will then start and you can use the arrow keys to move your character. The blocks will move across the screen from right to left, and you must avoid them or you'll lose a life. Collecting coins will give you points and extra lives. The game ends when you run out of lives.
 
 
